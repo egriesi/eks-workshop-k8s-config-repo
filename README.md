@@ -1,1 +1,1 @@
-# eks-workshop-k8s-config-repo
+# eks-example
